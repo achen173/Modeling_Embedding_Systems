@@ -34,4 +34,4 @@ will reveal whether the target state is reachable in some number of transitions 
 ![](https://github.com/achen173/Modeling_Embedding_Systems/blob/master/Example_For_ReadMe/Example2.JPG)
 
 ## For Help
-  Run python3.6 main.py --help
+  Run ./Modeling_Embedding_Systems/PythonFiles/Part2$ python3.6 main.py --help
