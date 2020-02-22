@@ -26,9 +26,12 @@ will reveal whether the target state is reachable in some number of transitions 
 
 ## Example Usage and Output
   ./Modeling_Embedding_Systems/PythonFiles/Part2$ python3.6 main.py verilogFiles/ex1.v 2
-![](https://github.com/achen173/Resume-Parser/blob/master/ExampleOutput.JPG)
+  
+![](https://github.com/achen173/Modeling_Embedding_Systems/blob/master/Example_For_ReadMe/Example1.JPG)
+
   ./Modeling_Embedding_Systems/PythonFiles/Part2$ python3.6 main.py verilogFiles/ex1.v -c 2
-![](https://github.com/achen173/Resume-Parser/blob/master/ExampleOutput.JPG)
+  
+![](https://github.com/achen173/Modeling_Embedding_Systems/blob/master/Example_For_ReadMe/Example2.JPG)
 
 ## For Help
   Run python3.6 main.py --help
