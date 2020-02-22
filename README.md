@@ -17,6 +17,15 @@ will reveal whether the target state is reachable in some number of transitions 
 
 *Note: Make sure to use Python3.6+
 
+## Testbench for Verilog files can be found in both 
+https://github.com/achen173/Modeling_Embedding_Systems/tree/master/lab1_files
+https://github.com/achen173/Modeling_Embedding_Systems/tree/master/PythonFiles/Part2/verilogFiles
+
+or
+
+/PythonFiles/Part2/verilogFiles/
+
+/lab1_files
 
 ## To Run
   1) cd ./Modeling_Embedding_Systems/PythonFiles/Part2/    
