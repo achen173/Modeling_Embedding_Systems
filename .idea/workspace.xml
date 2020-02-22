@@ -13,7 +13,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PythonFiles/Part2/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
+            <state relative-caret-position="614">
               <caret line="40" column="68" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -40,51 +40,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PythonFiles/Part2/data.dimacs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="323">
+              <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonFiles/Part2/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PythonFiles/Part2/cnf_writer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+            <state relative-caret-position="238">
+              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
               <folding>
-                <element signature="e#767#1039#0" />
-                <element signature="e#1050#1322#0" />
-                <element signature="e#3208#3457#0" />
-                <element signature="e#3507#3655#0" />
-                <element signature="e#4042#4064#0" />
+                <element signature="e#66#225#0" />
+                <element signature="e#256#2948#0" />
+                <element signature="e#3032#3154#0" />
+                <element signature="e#3195#3444#0" />
+                <element signature="e#3494#3642#0" />
+                <element signature="e#3714#3994#0" />
+                <element signature="e#4029#4051#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonFiles/Part2/storage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1214">
-              <caret line="100" column="12" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
-              <folding>
-                <element signature="e#2824#3250#0" />
-                <element signature="e#4479#4627#0" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/PythonFiles/Part1/verilog_parser.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -129,15 +114,15 @@
         <option value="$PROJECT_DIR$/PythonFiles/Part2/test.py" />
         <option value="$PROJECT_DIR$/lab1_files/ex1.v" />
         <option value="$PROJECT_DIR$/PythonFiles/Part2/main.py" />
-        <option value="$PROJECT_DIR$/PythonFiles/Part2/cnf_writer.py" />
         <option value="$PROJECT_DIR$/PythonFiles/Part2/verilogFiles/ex1.v" />
+        <option value="$PROJECT_DIR$/PythonFiles/Part2/cnf_writer.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-35" />
     <option name="y" value="20" />
-    <option name="width" value="1603" />
+    <option name="width" value="1604" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
@@ -145,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,17 +148,11 @@
               <item name="PythonFiles" type="462c0819:PsiDirectoryNode" />
               <item name="Part2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Lab 1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab 1" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonFiles" type="462c0819:PsiDirectoryNode" />
-              <item name="Part2" type="462c0819:PsiDirectoryNode" />
-              <item name="verilogFiles" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,7 +170,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.storage">
+    <configuration name="storage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Lab 1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonFiles/Part2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonFiles/Part2/storage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lab 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,6 +236,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.storage" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.verilog_parser" />
       </list>
@@ -256,16 +256,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-28" y="16" width="1282" height="832" extended-state="0" />
-    <editor active="true" />
+    <frame x="-28" y="16" width="1283" height="832" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18378812" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18364073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23156342" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23156342" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970502" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -320,17 +319,6 @@
         <state relative-caret-position="-1646" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonFiles/Part2/storage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1214">
-          <caret line="100" column="12" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
-          <folding>
-            <element signature="e#2824#3250#0" />
-            <element signature="e#4479#4627#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab1_files/ex1.v">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -345,9 +333,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PythonFiles/Part1/Organizing.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonFiles/Part2/cnf_writer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="e#66#225#0" />
+            <element signature="e#256#2948#0" />
+            <element signature="e#3032#3154#0" />
+            <element signature="e#3195#3444#0" />
+            <element signature="e#3494#3642#0" />
+            <element signature="e#3714#3994#0" />
+            <element signature="e#4029#4051#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PythonFiles/Part2/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
+        <state relative-caret-position="614">
           <caret line="40" column="68" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -355,12 +362,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonFiles/Part2/data.dimacs">
+    <entry file="file://$PROJECT_DIR$/PythonFiles/Part2/storage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        <state relative-caret-position="514">
+          <caret line="100" column="12" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
+          <folding>
+            <element signature="e#2824#3250#0" />
+            <element signature="e#4479#4627#0" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonFiles/Part1/verilog_parser.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonFiles/Part2/test.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -369,17 +383,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonFiles/Part2/cnf_writer.py">
+    <entry file="file://$PROJECT_DIR$/PythonFiles/Part2/data.dimacs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
-          <folding>
-            <element signature="e#767#1039#0" />
-            <element signature="e#1050#1322#0" />
-            <element signature="e#3208#3457#0" />
-            <element signature="e#3507#3655#0" />
-            <element signature="e#4042#4064#0" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
         </state>
       </provider>
     </entry>
