@@ -1,6 +1,8 @@
 # Modeling_Embedding_Systems
 UMASS ECE597
 
+https://github.com/achen173/Modeling_Embedding_Systems
+
 **Objective** : Sequential systems have memory elements with values that evolve according to inputs and combinational logic. The
 behavior of sequential systems can be characterized in terms of states and transitions. Reachability analysis deals
 with determining which states can be reached from a given initial state or initial states. In this project, the initial state is
