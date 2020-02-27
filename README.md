@@ -16,6 +16,7 @@ dimacs formatted CNF, and calling a SAT solver (picosat) that will check whether
 will reveal whether the target state is reachable in some number of transitions from the initial state. 
 
 *Note: Make sure to use Python3.6+
+*Note: Make sure to install [picosat](https://www.howtoinstall.co/en/ubuntu/trusty/picosat)
 
 ## Testbench for Verilog files can be found in both 
 https://github.com/achen173/Modeling_Embedding_Systems/tree/master/lab1_files
